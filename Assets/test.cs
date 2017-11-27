@@ -4,7 +4,7 @@ using System.Collections;
 public class test : MonoBehaviour
 {
 	//reference to LineRenderer component
-	private LineRenderer line; 
+	private LineRenderer line;
 	//car to store mouse position on the screen
 	private Vector3 mousePos;
 	//assign a material to the Line Renderer in the Inspector
